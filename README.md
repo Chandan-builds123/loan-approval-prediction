@@ -31,8 +31,15 @@ python app.py
 
 ### Step 4 — Open in browser
 
-Main UI:
-http://127.0.0.1:5000/
+### 🌐 Live Application
+
+👉 https://loan-approval-prediction.onrender.com
+
+---
+
+### 💻 Run Locally (For Development)
+
+Then open:http://127.0.0.1:5000/
 
 ---
 
