@@ -33,7 +33,7 @@ python app.py
 
 ### 🌐 Live Application
 
-👉 https://loan-approval-prediction.onrender.com
+👉 https://loan-approval-prediction-xwhi.onrender.com
 
 ---
 
